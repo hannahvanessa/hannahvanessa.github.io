@@ -61,7 +61,7 @@ layout: default
 }
 </style>
 # Hi I'm Hannah👋
-MSc student in Department of Computer Science, Yonsei University and member of the [HPCP Lab.](https://yonsei-hpcp.github.io/") advised by [Prof. Youngsok Kim](https://youngsok.github.io/).
+MSc student in Department of Computer Science, Yonsei University and member of the [HPCP Lab.](https://yonsei-hpcp.github.io/) advised by [Prof. Youngsok Kim](https://youngsok.github.io/).
 
 ## Research Interests
 Computer Architecture, Database system acceleration using GPUs
