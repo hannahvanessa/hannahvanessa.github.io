@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hi I'm Hannah👋
+MSc student in Department of Computer Science, Yonsei University and member of the [HPCP Lab.](https://yonsei-hpcp.github.io/") advised by [Prof. Youngsok Kim](https://youngsok.github.io/).
 
 [Link to another page](./another-page.html).
 
