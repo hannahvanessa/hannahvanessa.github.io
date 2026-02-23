@@ -14,7 +14,7 @@ layout: default
   top: 0;
   bottom: 0;
   width: 2px;
-  background: #b0c4de;  /* 연한 네이비 선 */
+  background: #b0c4de;
 }
 .timeline-item {
   position: relative;
@@ -28,13 +28,13 @@ layout: default
   width: 30px;
   height: 30px;
   background: white;
-  border: 2px solid #003876;  /* 연세 네이비 */
+  border: 2px solid #003876;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 12px;
-  color: #003876;  /* 연세 네이비 */
+  color: #003876;
   line-height: 30px;
   text-align: center;
 }
@@ -50,7 +50,7 @@ layout: default
   font-size: 1em;
 }
 .timeline-card .meta {
-  color: #003876;  /* 연세 네이비 */
+  color: #003876;
   font-size: 0.85em;
   float: right;
 }
@@ -64,7 +64,7 @@ layout: default
 MSc student in Department of Computer Science, Yonsei University and member of the [HPCP Lab.](https://yonsei-hpcp.github.io/") advised by [Prof. Youngsok Kim](https://youngsok.github.io/).
 
 ## Research Interests
-Computer Architecture, GPU Architecture?Microarchitecture, Database Systems Optimization
+Computer Architecture, Database system acceleration using GPUs
 
 ## Education
 <div class="timeline">
@@ -86,5 +86,3 @@ Computer Architecture, GPU Architecture?Microarchitecture, Database Systems Opti
 
 ## Publications
 To be updated:)
-
-## Experience
