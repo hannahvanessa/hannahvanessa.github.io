@@ -14,7 +14,7 @@ layout: default
   top: 0;
   bottom: 0;
   width: 2px;
-  background: #f8d0cc;
+  background: #b0c4de;  /* 연한 네이비 선 */
 }
 .timeline-item {
   position: relative;
@@ -28,13 +28,13 @@ layout: default
   width: 30px;
   height: 30px;
   background: white;
-  border: 2px solid #f8d0cc;
+  border: 2px solid #003876;  /* 연세 네이비 */
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 12px;
-  color: #e57373;
+  color: #003876;  /* 연세 네이비 */
   line-height: 30px;
   text-align: center;
 }
@@ -50,7 +50,7 @@ layout: default
   font-size: 1em;
 }
 .timeline-card .meta {
-  color: #888;
+  color: #003876;  /* 연세 네이비 */
   font-size: 0.85em;
   float: right;
 }
