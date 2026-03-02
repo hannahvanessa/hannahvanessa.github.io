@@ -70,7 +70,7 @@ Computer Architecture, Database system acceleration using GPUs
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-card">
-      <span class="meta">Starting Mar 2026</span>
+      <span class="meta">Mar 2026 - Present</span>
       <div class="title">Yonsei University</div>
       <div class="sub">M.S. Student, Department of Computer Science and Engineering</div>
     </div>
